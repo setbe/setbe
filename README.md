@@ -4,4 +4,4 @@
 
 💞️ I like to develop complex algorithms
 
-🌱 I’m currently learning [NO DATA]
+🌱 I’m currently learning C# WPF
