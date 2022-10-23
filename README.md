@@ -1,5 +1,3 @@
-👋 Hi, I’m @MrMiquy from Ukraine
-
+👋 Hi, I’m @MrMiquy
 💞️ I like complex algorithms
-
 🌱 I’m currently trying code anime girls
