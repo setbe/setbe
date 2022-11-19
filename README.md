@@ -4,4 +4,4 @@
 
 🌱 I’m currently trying code anime girls
 
-17 y.o. student (software engineer)
+17 y.o. student (software engineer/designer)
