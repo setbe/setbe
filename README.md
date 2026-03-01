@@ -1,6 +1,6 @@
 html beginner
 
-20 y.o. | student.
+21 y.o. | student.
 
 ChatGPT is a friend.
 
